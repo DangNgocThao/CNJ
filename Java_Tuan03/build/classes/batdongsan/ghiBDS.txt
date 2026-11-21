@@ -1,0 +1,32 @@
+Danh sách đất trồng
+
+Mã số: DT01
+Chiều dài: 3
+Chiều rộng: 4
+Giá bán: 120000
+
+Danh sách nhà ở
+
+Mã số: NO01
+Chiều dài: 4
+Chiều rộng: 6
+Số lầu: 2
+Giá bán: 440000
+
+Danh sách biệt thự
+
+Mã số: BT01
+Chiều dài: 10
+Chiều rộng: 20
+Giá bán: 80200000
+Phí kinh doanh: 200000
+
+Danh sách khách sạn
+
+Mã số: KS01
+Chiều dài: 20
+Chiều rộng: 20
+Số sao: 5
+Giá bán: 450000
+Phí kinh doanh: 100000
+

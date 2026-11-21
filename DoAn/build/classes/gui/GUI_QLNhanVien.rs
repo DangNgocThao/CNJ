@@ -1,0 +1,12 @@
+GUI.GUI_QLNhanVien$1
+GUI.GUI_QLNhanVien$2
+GUI.GUI_QLNhanVien$3
+GUI.GUI_QLNhanVien$11
+GUI.GUI_QLNhanVien$4
+GUI.GUI_QLNhanVien$10
+GUI.GUI_QLNhanVien$5
+GUI.GUI_QLNhanVien$6
+GUI.GUI_QLNhanVien$7
+GUI.GUI_QLNhanVien$8
+GUI.GUI_QLNhanVien$9
+GUI.GUI_QLNhanVien

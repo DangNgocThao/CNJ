@@ -1,0 +1,22 @@
+Danh sách nhân viên văn phòng
+
+Họ tên nhân viên: Nguyễn Quan Vinh
+Năm vào làm nhân viên: 2002
+Số ngày làm việc: 20
+Trợ cấp: 1000.0
+Tiền lương: 3491000.0
+
+Danh sách nhân viên sản xuất
+
+Họ tên nhân viên: Nguyễn Nhựt Tân
+Năm vào làm nhân viên: 2002
+Số sản phẩm: 10
+Tiền lương: 1510000.0
+
+Danh sách nhân viên quản lý
+
+Họ tên nhân viên: Lê Thanh Nam
+Năm vào làm nhân viên: 2002
+Hệ số chức vụ: 1
+Thưởng: 1000.0
+Tiền lương: 1491000.0
